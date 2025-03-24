@@ -33,6 +33,6 @@
 ## 🔗 Let's Connect:
 <p align="center">
   <a href="linkedin.com/in/kiran-g-n-1771a1220"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/kirangn24"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Kirangn24"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
   <a href="mailto:kirangn2406@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
