@@ -15,4 +15,4 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/47668240-7f3c-4480-b3aa-9ecd639538></td>
+      <img src="https://github.com/user-attachments/assets/47668240-7f3c-4480-b3aa-9ecd639538"></td>
