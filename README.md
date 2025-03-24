@@ -1,7 +1,7 @@
 [https://github.com/Kirangn24/Kirangn24/issues/3]
 🙋‍♂️ All about me is at My [Website](https://github.com/Kirangn24/Kirangn24/issues/2#issue-2942276060)
 
-🔭 I’m currently working on Something Intresting.
+🔭I am currently working as a Software Developer at Radiant Info Systems Pvt. Ltd.
 
 🌱 I’m currently learning MERN Stack
 
@@ -9,8 +9,8 @@
 
 🤔 I’m looking for help with Competitive Programming
 
-💬 Ask me about anything, Except Maths 😅
+💬 Ask me about anything, Except Series 😅
 
 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
-⚡ Fun fact: I waste most of my time playing games
+⚡ Fun fact: I waste most of my time watching reels! 🎥😂
