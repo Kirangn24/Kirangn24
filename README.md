@@ -1,18 +1,15 @@
-cc-bg-2.jpeg
+🙋‍♂️ All about me is at My Website
 
-## Hi there 👋
+🔭 I’m currently working on Something Intresting.
 
-<!--
-**Kirangn24/Kirangn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning MERN Stack
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate for Dev Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with Competitive Programming
+
+💬 Ask me about anything, Except Maths 😅
+
+👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+
+⚡ Fun fact: I waste most of my time playing games
