@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fokoliechykwuka%2Fokoliechykwuka&psig=AOvVaw2HtqHBhuMWrkhFuoj0haR_&ust=1742905248411000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKie1I7aoowDFQAAAAAdAAAAABAE">
+      <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
     </td>
   </tr>
