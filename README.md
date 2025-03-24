@@ -1,3 +1,5 @@
+cc-bg-2.jpeg
+
 ## Hi there 👋
 
 <!--
