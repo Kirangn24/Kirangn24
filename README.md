@@ -1,4 +1,4 @@
-https://github.com/Kirangn24/Kirangn24/issues/1#issue-2942255898
+!
 🙋‍♂️ All about me is at My [Website](https://github.com/Kirangn24/Kirangn24/issues/2#issue-2942276060)
 
 🔭 I’m currently working on Something Intresting.
