@@ -19,7 +19,8 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/47668240-7f3c-4480-b3aa-9ecd6395385f" width="300px">
+      <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif" width="400px">
+
     </td>
   </tr>
 </table>
