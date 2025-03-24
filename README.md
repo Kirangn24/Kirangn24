@@ -1,5 +1,5 @@
 [https://github.com/Kirangn24/Kirangn24/issues/3]
-🙋‍♂️ All about me is at My [Website](https://github.com/Kirangn24/Kirangn24/issues/2#issue-2942276060)
+🙋‍♂️ All about me is at My [Website](https://kirangn24.github.io/Portfolio/)
 
 🔭I am currently working as a Software Developer at Radiant Info Systems Pvt. Ltd.
 
