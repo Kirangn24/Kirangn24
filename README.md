@@ -1,5 +1,4 @@
-(https://github.com/user-attachments/assets/f56e8d92-ecb6-4098-b4cd-0f0d817516ca)
-![cc-bg-2](https://github.com/user-attachments/assets/23f0f48f-784a-4a24-9ccd-0b03b8f26df4)
+
 
 🙋‍♂️ All about me is at My [Website](https://kirangn24.github.io/Portfolio/)
 
