@@ -38,3 +38,12 @@
   <a href="https://github.com/Kirangn24"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
   <a href="mailto:kirangn2406@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
+
+
+
+
+## 📊 My GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kirangn24&show_icons=true&theme=radical" />
+</p>
