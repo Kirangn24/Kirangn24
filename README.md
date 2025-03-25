@@ -6,7 +6,7 @@
   <tr>
     <td>
       <ul>
-        <li>📄 <strong>My Resume:</strong> <a href="https://github.com/Kirangn24/Kirangn24/blob/main/Kiran_1year_Year.pdf">View My Resume</a></li>
+        <li>📄 📄 <strong>My Resume:</strong> <a href="https://kirangn24.github.io/Kiran_1year_Year.pdf" download>Download My Resume</a></li>
         <li>📌 All about me is at <a href="https://kirangn24.github.io/Portfolio/">My Website</a></li>
         <li>🔭 I'm currently working as a Software Developer at <strong>Radiant Info Systems Pvt. Ltd.</strong></li>
         <li>🌱 I’m currently learning <strong>Microservices</strong></li>
