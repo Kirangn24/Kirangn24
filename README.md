@@ -12,7 +12,7 @@
         <li>🤝 I’m looking to collaborate for <strong>Dev Projects</strong></li>
         <li>💡 I’m looking for help with <strong>Competitive Programming</strong></li>
         <li>💬 Ask me about anything, Except Web Series 😅</li>
-        <li>🔥 Life Hack: Learn new tech and share what you have learned 🎉</li>
+        <li>🔥 Life Hack: Learn new tech and share what I have learned 🎉</li>
         <li>⚡ Fun fact: I waste most of my time watching reels! 🎥😂</li>
       </ul>
     </td>
