@@ -51,8 +51,4 @@
 </p>
 
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://kirangn24.github.io/Kirangn24/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
