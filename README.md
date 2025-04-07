@@ -49,3 +49,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kirangn24&show_icons=true&theme=radical" />
 </p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://kirangn24.github.io/Kirangn24/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
