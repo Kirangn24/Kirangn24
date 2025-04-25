@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me:
 <table>
   <tr>
-    <td>
+    <td> 
       <ul>
         <li>📄 <strong>My Resume:</strong> 
           <a href="https://github.com/Kirangn24/Kirangn24/raw/main/Kiran_1year_Resume.pdf" target="_blank">Download My Resume</a>
