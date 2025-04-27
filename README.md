@@ -8,7 +8,7 @@
         <li>📄 <strong>My Resume:</strong> 
           <a href="https://github.com/Kirangn24/Kirangn24/raw/main/Kiran_1year_Resume.pdf" target="_blank">Download My Resume</a>
         </li>
-        <li>📌 All about me is at <a href="https://kirangn24.github.io/Portfolioo/">My Website</a></li>
+        <li>📌 All about me is at <a href="https://kirangn24.github.io/Portfolio/">My Website</a></li>
         <li>🔭 I'm currently working as a Software Developer at <strong>Radiant Info Systems Pvt. Ltd.</strong></li>
         <li>🌱 I’m currently learning <strong>Microservices</strong></li>
         <li>🤝 I’m looking to collaborate for <strong>Dev Projects</strong></li>
